@@ -1,5 +1,9 @@
 hello
 hi everyone , how is it going?
 
+<<<<<<< HEAD
 commit A
 commit B
+=======
+commit A
+>>>>>>> parent of 570d581 (commit B)
