@@ -2,3 +2,4 @@ hello
 hi everyone , how is it going?
 
 commit A
+commit B
