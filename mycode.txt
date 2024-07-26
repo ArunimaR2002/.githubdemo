@@ -4,4 +4,6 @@ hi everyone , how is it going?
 commit A
 commit B
 a new change was done
-another edit to demonstrate fetch and merge
+another edit to demonstrate fetch and merge.
+yet another edit demonstrate push cmd
+
