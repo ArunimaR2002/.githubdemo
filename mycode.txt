@@ -4,3 +4,4 @@ hi everyone , how is it going?
 commit A
 commit B
 a new change was done
+another edit to demonstrate fetch and done
